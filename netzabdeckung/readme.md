@@ -30,8 +30,8 @@ Beispielhafte Entität (fiktiv):
 Die Koordinaten der Entitäten sind im WGS-1984-Format gemäß EPSG:4326 angegeben.
 
 # Herangehensweise
-Zur Bewertung der Netzqualität soll für den Längen-Breitengrad einer Entität das Polygon aus dem Datensatz der Bundesnetzagentur extrahiert werden, in das die Agentur hineinfällt. 
-Sofern eine Agentur zufällig am Rande zwischen Polygonen liegt, wird zufällig eines der zutreffenden Polygone ausgewählt.
+Zur Bewertung der Netzqualität soll für den Längen-Breitengrad einer Entität das Polygon aus dem Datensatz der Bundesnetzagentur extrahiert werden, in das die Entität hineinfällt. 
+Sofern eine Entität zufällig am Rande zwischen Polygonen liegt, wird zufällig eines der zutreffenden Polygone ausgewählt.
 
 # Einordnung der Ergebnisse
 Daten zur Breitbandmessung lagen nicht vor. Aus dem Jahresbericht der Bundesnetzagentur: "Das generelle Leistungsniveau lag bei mobilen Breitbandanschlüssen
